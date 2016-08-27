@@ -1,0 +1,6 @@
+include LICENSE
+include README.rst
+recursive-include lionschool/core/static *
+recursive-include lionschool/core/templates *
+recursive-include lionschool/core/locale *
+recursive-include docs *
