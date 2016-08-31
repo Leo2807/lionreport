@@ -46,6 +46,10 @@ msgstr "evaluaties"
 msgid "score"
 msgstr "score"
 
+#: models.py:23
+msgid "public"
+msgstr "openbaar"
+
 #: models.py:30
 msgid "comment"
 msgstr "commentaar"
